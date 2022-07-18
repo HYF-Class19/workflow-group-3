@@ -1,2 +1,7 @@
 node_modules
 .DS_Store
+.vscode
+.gitignore
+.cspell.json
+package-lock.json
+package.json
