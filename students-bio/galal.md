@@ -42,9 +42,9 @@ of October,1998. I’m interested in computer science.
 
 ###### **_My table_**
 
-| language's Skills | Level    | Hobbies  | A Fun    | program    | logo                                                                                                                                              |
-| ----------------- | -------- | -------- | -------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Arabic            | **\*\*** | Reading  | \*\*\*   | HTML       | ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)                                             |
-| English           | **\***   | Fitness  | \*\*\*\* | CSS        | ![CSS3](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3)                                                                  |
-| Dutch             | \*\*\*\* | Swimming | **\***   | JavaScript | ![JavaScript](https://img.shields.io/badge/-JS-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) |
-| French            | \*\*\*   | Football | **\*\*** | NodeJs     | ![node](https://img.shields.io/badge/-node-js%23CC6699?style=flat-square&logo=node-js&logoColor=ffffff)                                           |
+| language's Skills | Level        | Hobbies  | A Fun        | program    | logo                                                                                                                                              |
+| ----------------- | ------------ | -------- | ------------ | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Arabic            | \*\*\*\*\*\* | Reading  | \*\*\*       | HTML       | ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)                                             |
+| English           | \*\*\*\*\*   | Fitness  | \*\*\*\*     | CSS        | ![CSS3](https://img.shields.io/badge/-CSS-%231572B6?style=flat-square&logo=css3)                                                                  |
+| Dutch             | \*\*\*\*     | Swimming | \*\*\*\*\*   | JavaScript | ![JavaScript](https://img.shields.io/badge/-JS-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) |
+| French            | \*\*\*       | Football | \*\*\*\*\*\* | NodeJs     | ![node](https://img.shields.io/badge/-node-js%23CC6699?style=flat-square&logo=node-js&logoColor=ffffff)                                           |
