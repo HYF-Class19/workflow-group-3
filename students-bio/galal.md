@@ -8,7 +8,8 @@
 My name is **Galal KORO**. my nick name is Shartai. I was born in Sudan on 9th
 of October,1998. I’m interested in computer science.
 
-`Never give up your dreams, if you are already half way and then you have many difficulties get over them. Only with your studies you will feel fulfilled.`
+> Never give up your dreams, if you are already half way and then you have many
+> difficulties get over them. Only with your studies you will feel fulfilled.
 
 ### Thing I should tell my self
 
