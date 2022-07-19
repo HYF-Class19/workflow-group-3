@@ -16,5 +16,8 @@
     "cspell": "^5.9.0",
     "markdownlint-cli": "^0.32.0",
     "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "flag-icons": "^6.6.4"
   }
 }
