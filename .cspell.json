@@ -1,5 +1,8 @@
 {
   "language": "en",
+
+  "words": ["Antwerpen", "HackYourFuture", "HackYourFutureBelgium", "KORO"],
+
   "words": [
     "HackYourFuture",
     "HackYourFutureBelgium",
@@ -12,6 +15,7 @@
     "tada",
     "Renjani"
   ],
+
   "ignorePaths": [
     "node_modules/**",
     "package.json",
