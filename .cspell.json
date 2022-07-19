@@ -10,7 +10,8 @@
     "Antwerpen",
     "Inna",
     "tada",
-    "Renjani"
+    "Renjani",
+    "README"
   ],
   "ignorePaths": [
     "node_modules/**",
@@ -18,5 +19,13 @@
     "package-lock.json",
     "**/*.mp4",
     "**/*.svg"
+  ],
+  "dictionaries": ["custom-dictionary"],
+  "dictionaryDefinitions": [
+    {
+      "name": "custom-dictionary",
+      "path": "./.cspell/custom-dictionary.txt",
+      "addWords": true
+    }
   ]
 }
