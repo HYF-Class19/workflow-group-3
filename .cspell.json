@@ -1,11 +1,39 @@
 {
   "language": "en",
+ john-bio
   "words": ["HackYourFutureBelgium", "HackYourFuture", "Olutubo"],
+
+
+  "words": ["Antwerpen", "HackYourFuture", "HackYourFutureBelgium", "KORO"],
+
+  "words": [
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "KORO",
+    "galal",
+    "Galal",
+    "Shartai",
+    "Antwerpen",
+    "Inna",
+    "tada",
+    "Renjani",
+    "README"
+  ],
+
+
   "ignorePaths": [
     "node_modules/**",
     "package.json",
     "package-lock.json",
     "**/*.mp4",
     "**/*.svg"
+  ],
+  "dictionaries": ["custom-dictionary"],
+  "dictionaryDefinitions": [
+    {
+      "name": "custom-dictionary",
+      "path": "./.cspell/custom-dictionary.txt",
+      "addWords": true
+    }
   ]
 }
