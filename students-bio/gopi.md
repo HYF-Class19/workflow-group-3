@@ -1,5 +1,9 @@
 # MY bio
 
+| Gopi                        | India                                |
+| --------------------------- | ------------------------------------ |
+| ![gopi](../images/gopi.png) | ![india](/students-bio/flags/in.svg) |
+
 ## My profiel
 
 ### Name
