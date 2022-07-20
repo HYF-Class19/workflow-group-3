@@ -1,14 +1,5 @@
 {
   "language": "en",
-<<<<<<< HEAD
-=======
- john-bio
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Olutubo"],
-
-
-  "words": ["Antwerpen", "HackYourFuture", "HackYourFutureBelgium", "KORO"],
-
->>>>>>> 801bd5b821f3f3bfff35c5e35b8012b5830c18de
   "words": [
     "Antwerpen",
     "AWOLOWO",
@@ -27,11 +18,7 @@
     "Shartai",
     "tada"
   ],
-<<<<<<< HEAD
-=======
 
-
->>>>>>> 801bd5b821f3f3bfff35c5e35b8012b5830c18de
   "ignorePaths": [
     "node_modules/**",
     "package.json",
