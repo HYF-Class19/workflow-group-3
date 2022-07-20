@@ -4,21 +4,27 @@
     "Antwerpen",
     "AWOLOWO",
     "Bazon",
+    "fild",
     "galal",
     "Galal",
+    "Gopi",
+    "Gujrati",
     "HackYourFuture",
     "HackYourFutureBelgium",
     "Inna",
     "KORO",
     "LEUVEN",
+    "Nederlands",
     "OBAFEMI",
     "Olutubo",
+    "profiel",
     "README",
     "Renjani",
+    "Savani",
     "Shartai",
-    "tada"
+    "tada",
+    "Travelling"
   ],
-
   "ignorePaths": [
     "node_modules/**",
     "package.json",
@@ -26,7 +32,9 @@
     "**/*.mp4",
     "**/*.svg"
   ],
-  "dictionaries": ["custom-dictionary"],
+  "dictionaries": [
+    "custom-dictionary"
+  ],
   "dictionaryDefinitions": [
     {
       "name": "custom-dictionary",
