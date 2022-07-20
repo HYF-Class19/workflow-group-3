@@ -1,11 +1,38 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "Olutubo"],
+  "words": [
+    "Antwerpen",
+    "AWOLOWO",
+    "Bazon",
+    "galal",
+    "Galal",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
+    "Inna",
+    "KORO",
+    "LEUVEN",
+    "OBAFEMI",
+    "Olutubo",
+    "README",
+    "Renjani",
+    "Shartai",
+    "tada"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
     "package-lock.json",
     "**/*.mp4",
     "**/*.svg"
+  ],
+  "dictionaries": [
+    "custom-dictionary"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "custom-dictionary",
+      "path": "./.cspell/custom-dictionary.txt",
+      "addWords": true
+    }
   ]
 }
