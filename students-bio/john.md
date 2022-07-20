@@ -2,8 +2,8 @@
 
 ## What do I wanna do with tech?
 
-_"Consistent feedback is a tool to chart your course correctly, and eventually
-reach your destination."_ John Olutubo
+![John](../images/john.png) _"Consistent feedback is a tool to chart your course
+correctly, and eventually reach your destination."_ John Olutubo
 
 I am passionate about building meaningful products and I aim to create wealth
 and provide jobs through them.
@@ -14,7 +14,7 @@ and provide jobs through them.
 >
 > > The world should be a better place because of your product!
 
-###
+### _Work experience_
 
 ### Fun facts
 
