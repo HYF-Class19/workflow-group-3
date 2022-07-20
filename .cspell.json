@@ -1,20 +1,22 @@
 {
   "language": "en",
-
-  "words": ["Antwerpen", "HackYourFuture", "HackYourFutureBelgium", "KORO"],
-
   "words": [
-    "HackYourFuture",
-    "HackYourFutureBelgium",
-    "KORO",
+    "Antwerpen",
+    "AWOLOWO",
+    "Bazon",
     "galal",
     "Galal",
-    "Shartai",
-    "Antwerpen",
+    "HackYourFuture",
+    "HackYourFutureBelgium",
     "Inna",
-    "tada",
+    "KORO",
+    "LEUVEN",
+    "OBAFEMI",
+    "Olutubo",
+    "README",
     "Renjani",
-    "README"
+    "Shartai",
+    "tada"
   ],
 
   "ignorePaths": [
