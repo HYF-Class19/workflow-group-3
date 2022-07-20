@@ -25,9 +25,7 @@
     "**/*.mp4",
     "**/*.svg"
   ],
-  "dictionaries": [
-    "custom-dictionary"
-  ],
+  "dictionaries": ["custom-dictionary"],
   "dictionaryDefinitions": [
     {
       "name": "custom-dictionary",
